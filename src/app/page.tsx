@@ -1,4 +1,5 @@
 'use client'
+
 import Canvas from "@/components/Canvas";
 import Card from "@/components/Card";
 
